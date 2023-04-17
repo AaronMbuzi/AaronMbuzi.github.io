@@ -44,7 +44,7 @@ h2 {
     font-size: 1.5rem;
     margin: 0 0 16px 0;
 }
-.container {
+.container1 {
     margin: 0 auto;
     padding: 0 20px 0 20px;
     max-width: 900px;
@@ -67,16 +67,16 @@ section {
   padding: 40px 0;
   text-align: center;
 }
-.features {
+.features1 {
   background: #FFFFFF;
   color: #000000;
 }
-.feature{
+.feature1{
     width: 32%;
     display: inline-block;
     font-size: 16px;
 }
-.feature img{
+.feature1 img{
     width: 80%;
 }
 
